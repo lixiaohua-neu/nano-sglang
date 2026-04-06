@@ -9,7 +9,7 @@ pytest tests/test_kv_cache.py -v          # local, no GPU
 modal run modal_run.py::test              # all tests on GPU
 ```
 
-## Assignment 1: Build nano-sglang Core
+## Assignment: Build nano-sglang Core
 
 **Part 1: KV Cache** — `kv_cache.py`
 - Implement `update()` and `get()`
